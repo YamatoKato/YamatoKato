@@ -6,7 +6,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamatoKato&layout=compact&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Seidy-u&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=YamatoKato&theme=onedark&column=7
 )](https://github.com/YamatoKato/github-profile-trophy)
 
 ## Skills(Studying)
