@@ -7,7 +7,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Seidy-u&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+)](https://github.com/YamatoKato/github-profile-trophy)
 
 ## Skills(Studying)
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,go" />
