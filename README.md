@@ -1,4 +1,4 @@
-## Hi there👋,YamatoKato.
+## Hi there👋, I'm YamatoKato.
 
 ## Stats
 <p align="left"> 
